@@ -19,6 +19,8 @@ var KEY='iZJj2zgL2jg5BVzGxBIbLAecxihIFr02';
 
   //other controls
  map.addControl(L.mapquest.control());
+
+ //document.querySelector(".leaflet-marker-icon.leaflet-zoom-animated.leaflet-interactive").title="You are here";
     
   map.addEventListener("load",function(){
     document.querySelector(".lds-dual-ring").style.visibility="hidden";

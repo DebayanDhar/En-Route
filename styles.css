@@ -3,6 +3,7 @@ body
     margin: 0px;
     border: 0px;
     position:relative;
+    zoom: 125%;
 }
 #map
 {
